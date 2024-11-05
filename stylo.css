@@ -1,0 +1,120 @@
+.navbar {
+    padding: 3rem 2.5rem; 
+}
+.nav-link {
+   color: black; 
+}
+.nav-link:hover {
+    color: orange; 
+}
+.jumbotron {
+    height: 50vh; 
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    color: white;
+}
+.half {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(254, 91, 91, 0.8); 
+}
+.half img {
+    max-width: 105%; 
+    height: auto;
+}
+.experience-text {
+    color: rgb(255, 255, 255);
+}
+.highlight {
+    color: #ffffff;
+}
+.horizontal-line {
+    border-top: 1px solid #ffffff;
+}
+
+
+.categorias {
+    padding: 70px 0;
+}
+
+.categoria {
+    margin-bottom: 20px;
+}
+
+.categoria-content {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+    background-color: #fff;
+}
+
+.categoria img {
+    width: 100%;
+    height: auto;
+}
+
+.ribbon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(254, 91, 91, 0.8);
+    padding: 5px;
+    margin: 0px 0;
+}
+
+.ribbon span {
+    font-size: 14px;
+    
+}
+
+.btn-warning {
+    background-color: #c8d198;
+    border: none;
+    color: #000000;
+}
+
+.categoria-title {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.categoria-text {
+    font-size: 14px;
+}
+
+.categoria-text .highlight {
+    color: rgba(254, 91, 91, 0.8);
+}
+
+.btn-pink {
+    background-color: rgba(254, 91, 91, 0.8);
+    border: none;
+    color: #fff;
+    padding: 6px 90px;
+    margin-top: 20px;
+}
+
+
+.img-chef {
+    background-image: url(IMG/chef_bg.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.btn2{
+    background-color: rgba(254, 91, 91, 0.8);
+    border: none;
+    color: #fff;
+    padding: 6px 90px;
+    margin-top: 20px;
+}
+
+
+
+
